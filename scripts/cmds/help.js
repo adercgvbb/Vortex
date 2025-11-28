@@ -2,7 +2,9 @@ const { getPrefix } = global.utils;
 const { commands } = global.GoatBot;
 
 const helpImages = [
-  "https://files.catbox.moe/wseew7.jpg",
+  "
+
+https://files.catbox.moe/ne219w.bin",
   "https://files.catbox.moe/tywnfi.jpg",
   "https://files.catbox.moe/tse9uk.jpg",
   "https://files.catbox.moe/l8d5af.jpg",
