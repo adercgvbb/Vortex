@@ -1,4 +1,4 @@
-
+💀Eftekhar kabir⚡
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
@@ -6,7 +6,7 @@
 ---
 <!-- Banner / Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE;ANONYMOUS-📗-Kakashi;NIROB+BOT+ACTIVE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE;ANONYMOUS-📗-Itachi;Kabir+BOT+ACTIVE" alt="Typing SVG" />
 </p>
 
 ---
