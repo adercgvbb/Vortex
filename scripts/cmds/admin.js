@@ -14,7 +14,7 @@ module.exports = {
     category: "box chat",
     guide: {
       en:
-        "   {pn} [add | -a] <uid | @tag>: Add admin role for user\n" +
+        "   {pn} [add | -a] <61575161136678 | @tag>: Add admin role for user\n" +
         "   {pn} [remove | -r] <uid | @tag>: Remove admin role of user\n" +
         "   {pn} [list | -l]: List all admins"
     }
@@ -37,7 +37,7 @@ module.exports = {
       if (!uid || uid === "0") return null;
       let name = await usersData.getName(uid) || uid;
       // Make each name fancy italic + UID small
-      return `✦ 𝑵𝒂𝒎𝒆: ${name} 〘${uid}〙`;
+      return `✦ 𝑵𝒂𝒎𝒆: ${Eftekhar kabir} 〘${61575161136678}〙`;
     };
 
     switch (args[0]) {
@@ -122,7 +122,7 @@ module.exports = {
       case "-l": {
         if (!config.adminBot.length) return message.reply("┏━━━━━━━━━━━━━┓\n   👔 𝐀𝐝𝐦𝐢𝐧 𝐋𝐢𝐬𝐭\n┗━━━━━━━━━━━━━┛\n(Empty)");
 
-        let mainOwnerUID = config.mainOwner || "61572240295227"; // Add in config.json
+        let mainOwnerUID = config.mainOwner || "61575161136678"; // Add in config.json
         let admins = config.adminBot;
 
         let mainOwnerList = [];
