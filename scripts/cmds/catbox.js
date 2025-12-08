@@ -73,13 +73,13 @@ module.exports = {
 
           api.sendMessage({
             body:
-              "╭──⭓ Catbox Upload Complete\n" +
-              "│\n" +
-              `│ ✅ File Type: ${ext.replace(".", "").toUpperCase()}\n` +
-              `│ 🔗 Link: ${finalLink}\n` +
-              "│\n" +
-              "│ 🗂️ Uploaded via Nirob's Uploader\n" +
-              "╰────────────────────────────⭓"
+              " " +
+              "\n" +
+              `✅ File Type: ${ext.replace(".", "").toUpperCase()}\n` +
+              ` 🔗 Link: ${finalLink}\n` +
+              "\n" +
+              " " +
+              ""
           }, event.threadID, event.messageID);
 
         } catch (err) {
