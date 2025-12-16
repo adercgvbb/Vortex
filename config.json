@@ -12,20 +12,20 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "𝔽ℝ𝕀𝔻𝔸𝕐🐉",
+	"nickNameBot": "uganda-169🗿",
 	"prefix": "-",
 	"api": "https://mahabub-apis.fun",
 	"adminOnly": {
 		"enable": false,
-		"ignoreCommand": [61575161136678]
+		"ignoreCommand": [100028033470304]
 	},
 	"adminBot": [    
-	"61575161136678",
+	"100028033470304",
     ""
   ],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": [61575161136678],
+		"whiteListIds": [100028033470304],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
