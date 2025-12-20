@@ -100,8 +100,8 @@ ${info.extra ? `📝 Extra: ${info.extra}` : ""}
       if (nextPage > totalPages) nextPage = 1;
 
       msg += `────────────────────────────
-Dev: Nirob+Fixed by kabir | Nick: Kabir⚡
-FB: https://facebook.com/hatake.kakashi.NN
+Dev:kabir+forked by xuãn Lì SÌ | Nick: Fahim⚡
+FB: https://www.facebook.com/xuãn.Lì Sì
 FB:https://www.facebook.com/eftekhar.kabir.NN
 React 🖤 to go next page
 or type: ${prefix}help ${nextPage}
