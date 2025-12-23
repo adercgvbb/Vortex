@@ -1,4 +1,4 @@
-	{
+{
    "facebookAccount": {
     "email": "",
     "password": "",
@@ -19,7 +19,7 @@
   "adminBot": [
     "61575161136678",
     "100075122837809",
-    "100085332887575"
+    "100028033470304"
   ],
   "whiteListMode": {
     "enable": false,
@@ -29,7 +29,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "supreme🐉",
-  "prefix": "/",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "mongodb+srv://<db_username>:<db_password>@itachi007.prq6cy2.mongodb.net/?appName=Itachi007",
@@ -102,4 +102,4 @@
       "enable": false,
       "botToken": "",
       "chatId": "",
-      
+      	
