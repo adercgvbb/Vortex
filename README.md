@@ -18,7 +18,7 @@ Welcome to spiritual realm💀
 
 ---
 
-<h2 align="center">🌌 Eftekhar kabir 🌌</h2>
+<h2 align="center">🌌 sheikh fahim 🌌</h2>
 
 <p align="center">
   <b style="color:black">💻 Developer | 🔒 Modifier | 🚀 Open Source Enthusiast</b>
