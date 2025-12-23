@@ -6,7 +6,7 @@ Welcome to spiritual realm💀
 ---
 <!-- Banner / Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE;ANONYMOUS-📗-Itachi;Kabir+BOT+ACTIVE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE;ANONYMOUS-📗-Itachi;fahim+BOT+ACTIVE" alt="Typing SVG" />
 </p>
 
 ---
