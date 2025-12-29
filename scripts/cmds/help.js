@@ -100,9 +100,9 @@ ${info.extra ? `📝 Extra: ${info.extra}` : ""}
       if (nextPage > totalPages) nextPage = 1;
 
       msg += `────────────────────────────
-Dev: Nirob | Nick: Kakashi
-FB: https://facebook.com/hatake.kakashi.NN
-
+Dev: Sheikh Fahim | Nick:ᴹᴬᴰᴬᴿᴬ ᵁᶜᴴᴵᴴᴬ ☯
+FB: https://facebook.com/Sheikh.Fahim.NN
+FIXED BY ACS KABIR⚡
 React 🖤 to go next page
 or type: ${prefix}help ${nextPage}
 ────────────────────────────`;
